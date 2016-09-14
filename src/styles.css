@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "../node_modules/font-awesome/css/font-awesome.min.css";
+@import "../node_modules/primeng/resources/themes/afterdark/theme.css";
+@import "../node_modules/primeng/components/dropdown/dropdown.css";
+@import "../node_modules/primeng/components/galleria/galleria.css";
+
